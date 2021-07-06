@@ -49,9 +49,17 @@ h4{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#recipe-heading{
+    text-align: center;
+}
+.recipe-section{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
 footer{
     text-align: center;
-    padding: 5px;
+    padding: 20px;
     background-color: royalblue;
     color: white;
 }
