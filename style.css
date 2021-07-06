@@ -10,7 +10,7 @@ h1{
 h2{
     font-size: 40px;
 }
-#purple{
+.purple{
     color:purple;
 }
 .flexible-container{
@@ -19,10 +19,19 @@ h2{
 }
 .half-width{
     width: 50%;
-    padding: 2%;
+    padding: 5%;
     align: justify;
 
 }
 .half-width img{
     width:100%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(cyan, blue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border-radius: 50px;
 }
