@@ -27,7 +27,7 @@ h3{
 
 }
 .half-width img{
-    width:100%
+    width:90%
 }
 .link-button{
     text-decoration: none;
@@ -37,4 +37,9 @@ h3{
     color: white;
     font-weight: 700;
     border-radius: 50px;
+}
+.background-image{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
