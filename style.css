@@ -81,6 +81,16 @@ h5{
     width: 100%;
     border-radius: 30px;
 }
+#contact-area{
+    text-align: center;
+    background-color: gray;
+    padding: 2%;
+    margin-bottom: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 30px;
+    border:10px solid white
+}
 footer{
     text-align: center;
     padding: 20px;
